@@ -1,5 +1,5 @@
 AutoRespawn OK
-Nombre de vie limité (3/5)
+Nombre de vie limité (3 par defaut) OK
 keepInventory tant qu'on a des vie
 dès qu'on a plus de vie, on loot notre stuff (entité)
 Checkpoints
