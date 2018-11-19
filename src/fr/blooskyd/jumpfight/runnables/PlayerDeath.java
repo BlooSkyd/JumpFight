@@ -3,7 +3,6 @@ package fr.blooskyd.jumpfight.runnables;
 import fr.ziedelth.gameframework.GameFramework;
 import fr.ziedelth.gameframework.utils.FrameworkPlayer;
 import fr.ziedelth.gameframework.utils.PlayerUtils;
-import fr.blooskyd.jumpfight.runnables.PlayerDeath;
 import fr.blooskyd.jumpfight.JumpFight;
 import fr.ziedelth.gameframework.utils.runnable.PlayerDeathRunnable;
 import org.bukkit.entity.Player;
