@@ -1,0 +1,8 @@
+main: fr.blooskyd.jumpfight.JumpFight
+name: JumpFight
+version: 0.1
+author: Blooskyd
+api-version: 1.13
+depend:
+- EvolzAPI
+- GameFramework

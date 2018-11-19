@@ -1,0 +1,34 @@
+AutoRespawn OK
+Nombre de vie limité (3/5)
+keepInventory tant qu'on a des vie
+dès qu'on a plus de vie, on loot notre stuff (entité)
+Checkpoints
+TpBack au dernier checkpoint
+LootTable des chests évolutive
+LastChest container
+respawn aléatoire lors du final fight
+worldborder qui se rapprochent vers la fin pour focer le fight
+Résumé de la partie : (kills, nombre de chute lors du jump, etc)
+Scoreboard : (
+  Timer,
+  distance restante,
+  place entre les joueurs pour le parcours,
+  place en nbr de kils lors fu FF,
+  nombre de coffres restant,
+  Numéro du niveau,
+  nom de la map,
+  )
+Synchronisation avec la boutique
+Ajout d'achat pour la boutique : (
+  NoCleanUpRegen : lvl 1 (5s lvl 1), lvl 2 (10s lvl 1), lvl 3 (5s lvl 2), lvl 4 (10s lvl 2), lvl 5 MAX (lvl ? 3s 3 coeurs)
+  Effet Speed : lvl 1 +5%, lvl 2 +10%, lvl 3 +15%
+  )
+
+Quand un joueur rejoint la partie, il se fait tp au lobby d'attente
+apress il pourra voter pour la map sur laquelle il va pvp
+puis quand le timer est fini, tous les joueurs présents sont tp sur leur cellule de parcours
+quand ils arrivent sur un plaque de pression en or, ils débloquent un checkpoint,
+si ils tombent, ils retournent à leur derniers checkpoint
+quand ils ouvrent un coffre, ils peuvent récupéré tous les items aléatoirement générés dans ce coffre
+si ils arrivent à la fin du parcours, ils trouveront un coffre qui aura un item spécial type pomme en or, épée fer ou autre
+quand le timer du parcours est terminé, tous les joueurs sont tp dans la zone de pvp,
