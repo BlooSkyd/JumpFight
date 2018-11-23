@@ -1,5 +1,5 @@
-main: fr.blooskyd.jumpfight.JumpFight
-name: JumpFight
+main: fr.blooskyd.jumparena.JumpArena
+name: JumpArena
 version: 0.1
 authors: [BlooSkyd, Ziedelth]
 api-version: 1.13

@@ -1,4 +1,4 @@
-package fr.blooskyd.jumpfight.runnables;
+package fr.blooskyd.jumparena.runnables;
 
 import fr.ziedelth.gameframework.utils.runnable.PlayerRunnable;
 import fr.ziedelth.gameframework.utils.FrameworkPlayer;

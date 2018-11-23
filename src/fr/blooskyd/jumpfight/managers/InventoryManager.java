@@ -1,4 +1,4 @@
-package fr.blooskyd.jumpfight.managers;
+package fr.blooskyd.jumparena.managers;
 
 import org.bukkit.entity.Player;
 

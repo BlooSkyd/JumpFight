@@ -1,4 +1,4 @@
-package fr.blooskyd.jumpfight.utils;
+package fr.blooskyd.jumparena.utils;
 
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

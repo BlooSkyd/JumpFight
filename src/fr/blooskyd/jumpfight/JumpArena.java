@@ -1,4 +1,4 @@
-package fr.blooskyd.jumpfight;
+package fr.blooskyd.jumparena;
 
 import fr.ziedelth.dataclient.utils.Games;
 import fr.ziedelth.evolzapi.spigot.EvolzSpigot;
@@ -10,8 +10,8 @@ import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.json.simple.JSONObject;
 
-public class JumpFight extends JavaPlugin {
-    private static JumpFight instance;
+public class JumpArena extends JavaPlugin {
+    private static JumpArena instance;
     private int taskID;
     private JSONObject globalSettings, settings;
     private Games game;
